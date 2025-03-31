@@ -1,6 +1,6 @@
 KisaAutoShutdown:9
 KisaAutoScreenOff:-2
-KisaUIBrightness:4
+KisaUIBrightness:14
 KisaAutoResume:1
 KisaVariableCruise:1
 KisaLaneChangeSpeed:20
@@ -29,6 +29,8 @@ AutoResOption:0
 AutoResCondition:1
 UFCModeEnabled:1
 KisaUIBrightnessOff:40
+KISANaviSelect:4
+BottomTextView:7
 AutoEnableSpeed:0
 LCTimingKeepFactorLeft:40
 LCTimingKeepFactorRight:50
@@ -53,15 +55,16 @@ AnimatedRPM:1
 AnimatedRPMMax:5200
 KISASpeedBump:1
 KISAEarlyStop:1
-DoNotDisturbMode:3
+DoNotDisturbMode:2
 CruiseGapBySpdOn:1
-CruiseGapBySpdSpd:25,55,75
-CruiseGapBySpdGap:2,1,1,1
+CruiseGapBySpdSpd:55,75,85
+CruiseGapBySpdGap:1,2,2,3
 KisaLiveTorque:1
-CruiseSpammingSpd:25,55,75
+CruiseSpammingSpd:45,65,75
 CruiseSpammingLevel:2,2,1,1
 KisaCruiseGapSet:4
 UseLegacyLaneModel:2
 KISACruiseSpammingInterval:2
 KISACruiseSpammingBtnCount:1
 UseRadarValue:0
+UbloxAvailable:0
