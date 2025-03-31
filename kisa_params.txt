@@ -67,4 +67,4 @@ UseLegacyLaneModel:2
 KISACruiseSpammingInterval:2
 KISACruiseSpammingBtnCount:1
 UseRadarValue:0
-UbloxAvailable:0
+UbloxAvailable:1
