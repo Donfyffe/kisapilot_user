@@ -36,7 +36,7 @@ LCTimingFactorUD:0
 LCTimingFactor30:20
 LCTimingFactor60:40
 LCTimingFactor80:60
-LCTimingFactor100:80
+LCTimingFactor110:80
 LCTimingFactorEnable:1
 LCTimingKeepFactorLeft:40
 LCTimingKeepFactorRight:50
