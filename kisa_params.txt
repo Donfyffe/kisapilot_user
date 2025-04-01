@@ -1,9 +1,9 @@
 KisaAutoShutdown:9
 KisaAutoScreenOff:-2
-KisaUIBrightness:14
+KisaUIBrightness:29
 KisaAutoResume:1
 KisaVariableCruise:1
-KisaLaneChangeSpeed:20
+KisaLaneChangeSpeed:30
 KisaAutoLaneChangeDelay:3
 PutPrebuiltOn:1
 IsMetric:0
@@ -32,6 +32,12 @@ KisaUIBrightnessOff:40
 KISANaviSelect:4
 BottomTextView:7
 AutoEnableSpeed:0
+LCTimingFactorUD:0
+LCTimingFactor30:20
+LCTimingFactor60:40
+LCTimingFactor80:60
+LCTimingFactor100:80
+LCTimingFactorEnable:1
 LCTimingKeepFactorLeft:40
 LCTimingKeepFactorRight:50
 VCurvSpeedC:30,50,70,90
@@ -57,10 +63,10 @@ KISASpeedBump:1
 KISAEarlyStop:1
 DoNotDisturbMode:2
 CruiseGapBySpdOn:1
-CruiseGapBySpdSpd:55,75,85
+CruiseGapBySpdSpd:50,65,85
 CruiseGapBySpdGap:1,2,2,3
 KisaLiveTorque:1
-CruiseSpammingSpd:45,65,75
+CruiseSpammingSpd:40,60,80
 CruiseSpammingLevel:2,2,1,1
 KisaCruiseGapSet:4
 UseLegacyLaneModel:2
