@@ -64,13 +64,12 @@ KISAEarlyStop:0
 DoNotDisturbMode:2
 CruiseGapBySpdOn:1
 CruiseGapBySpdSpd:30,65,85
-CruiseGapBySpdGap:1,2,2,3
+CruiseGapBySpdGap:2,2,2,3
 KisaLiveTorque:1
 CruiseSpammingSpd:40,60,80
-CruiseSpammingLevel:2,2,1,1
+CruiseSpammingLevel:4,3,2,1
 KisaCruiseGapSet:4
 UseLegacyLaneModel:2
-KISACruiseSpammingInterval:6
+KISACruiseSpammingInterval:7
 KISACruiseSpammingBtnCount:1
 UseRadarValue:0
-UbloxAvailable:1
