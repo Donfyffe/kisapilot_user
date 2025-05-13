@@ -10,7 +10,7 @@ IsMetric:0
 KisaSteerMethod:0
 LanelessMode:1
 LateralControlMethod:3
-CruiseStatemodeSelInit:3
+CruiseStatemodeSelInit:1
 TorqueKp:7
 TorqueKf:10
 TorqueKi:1
@@ -73,7 +73,8 @@ CruiseSpammingSpd:40,60,80
 CruiseSpammingLevel:2,2,1,1
 KisaCruiseGapSet:2
 UseLegacyLaneModel:2
-KISACruiseSpammingInterval:8
+KISACruiseSpammingInterval:2
 KISACruiseSpammingBtnCount:1
+StopAtStopSign:1
 UseRadarValue:0
 UbloxAvailable:1
