@@ -66,11 +66,11 @@ KISASpeedBump:1
 KISAEarlyStop:0
 DoNotDisturbMode:2
 CruiseGapBySpdOn:1
-CruiseGapBySpdSpd:30,65,85
-CruiseGapBySpdGap:2,2,2,3
+CruiseGapBySpdSpd:30,60,85
+CruiseGapBySpdGap:1,1,1,2
 KisaLiveTorque:1
 CruiseSpammingSpd:40,60,80
-CruiseSpammingLevel:2,2,1,1
+CruiseSpammingLevel:4,2,1,0
 KisaCruiseGapSet:2
 UseLegacyLaneModel:2
 KISACruiseSpammingInterval:2
