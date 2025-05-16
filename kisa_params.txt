@@ -69,6 +69,7 @@ CruiseGapBySpdOn:1
 CruiseGapBySpdSpd:30,60,85
 CruiseGapBySpdGap:1,1,1,2
 KisaLiveTorque:1
+KISALongAlt:1
 CruiseSpammingSpd:40,60,80
 CruiseSpammingLevel:4,2,1,0
 KisaCruiseGapSet:2
